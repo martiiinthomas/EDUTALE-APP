@@ -7,7 +7,6 @@ Welcome to the repository for Edutale, a React Native app built with Expo. An ap
 Before you begin, ensure you have the following installed on your system:
 - Node.js (LTS version recommended)
 - npm (comes with Node.js)
-- Expo CLI (`npm install -g expo-cli`)
 
 ## Getting Started
 
